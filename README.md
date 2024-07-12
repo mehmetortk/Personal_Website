@@ -1,2 +1,2 @@
 My Personal Portfolio Website <br>
-http://mehmeterenortak.com/
+https://mehmetortk.github.io/Personal_Website/
